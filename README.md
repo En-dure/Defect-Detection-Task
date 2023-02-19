@@ -22,9 +22,9 @@
 
 2. 训练过程：tensorboard --logdir=runs （注：其中mdice_c为要求的dice coefficient指标）
 
-   ./yolov5/runs/train/epoch100_dice/result.csv 里存有训练过程dice coefficient（mdice_c）
+   ./runs/train/epoch100_dice/result.csv 里存有训练过程dice coefficient（mdice_c）
 
-3. 最佳权重位置：./yolov5/runs/train/epoch100_dice/weights
+3. 最佳权重位置：./runs/train/epoch100_dice/weights
 
 
 
