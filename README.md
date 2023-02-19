@@ -30,7 +30,7 @@
 
 三、test结果
 
-![image-20230219155525047](H:/Typora%E5%9B%BE%E7%89%87/image-20230219155525047.png)
+![image-20230219155525047](https://user-images.githubusercontent.com/48682148/219937613-d3380fbd-5682-4a69-b279-4a22ea09a64c.png)
 
 ​		测试集的dice_coefficient为0.92
 
